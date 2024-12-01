@@ -1,0 +1,106 @@
+year,winner,wins,country,match_count,win_rate,avg_score,top_player,country_category
+1996.0,Australia,10,Australia,23,0.43478260869565216,224.8,Mark Waugh,Australia
+1996.0,England,6,England,18,0.3333333333333333,227.33333333333334,Mike Atherton,Other
+1996.0,India,13,India,30,0.43333333333333335,230.76923076923077,Sachin Tendulkar,India
+1996.0,Kenya,1,Kenya,8,0.125,166.0,Maurice Odumbe,Other
+1996.0,New Zealand,9,New Zealand,22,0.4090909090909091,235.77777777777777,Nathan Astle,Other
+1996.0,Pakistan,23,Pakistan,38,0.6052631578947368,223.82608695652175,Saleem Malik,Pakistan
+1996.0,South Africa,25,South Africa,30,0.8333333333333334,240.68,Gary Kirsten,South Africa
+1996.0,Sri Lanka,18,Sri Lanka,27,0.6666666666666666,243.5,Aravinda de Silva,Sri Lanka
+1996.0,West Indies,10,West Indies,19,0.5263157894736842,207.1,Brian Lara,Other
+1996.0,Zimbabwe,3,Zimbabwe,15,0.2,185.66666666666666,Alistair Campbell,Zimbabwe
+1997.0,Australia,7,Australia,19,0.3684210526315789,223.57142857142858,Mark Waugh,Australia
+1997.0,England,9,England,14,0.6428571428571429,217.77777777777777,Adam Hollioake,Other
+1997.0,India,10,India,34,0.29411764705882354,181.8,Sourav Ganguly,India
+1997.0,Kenya,2,Kenya,6,0.3333333333333333,224.5,Kennedy Otieno,Other
+1997.0,New Zealand,6,New Zealand,17,0.35294117647058826,230.83333333333334,Chris Cairns,Other
+1997.0,Pakistan,13,Pakistan,32,0.40625,223.92307692307693,Saeed Anwar,Pakistan
+1997.0,South Africa,17,South Africa,22,0.7727272727272727,239.94117647058823,Lance Klusener,South Africa
+1997.0,Sri Lanka,19,Sri Lanka,26,0.7307692307692307,250.1578947368421,Aravinda de Silva,Sri Lanka
+1997.0,West Indies,10,West Indies,17,0.5882352941176471,239.4,Brian Lara,Other
+1997.0,Zimbabwe,12,Zimbabwe,22,0.5454545454545454,228.83333333333334,Andy Flower,Zimbabwe
+1998.0,Australia,15,Australia,25,0.6,256.26666666666665,Ricky Ponting,Australia
+1998.0,Bangladesh,1,Bangladesh,6,0.16666666666666666,237.0,Mohammad Rafique,Other
+1998.0,England,3,England,12,0.25,248.66666666666666,Ali Brown,Other
+1998.0,India,24,India,38,0.631578947368421,233.95833333333334,Sachin Tendulkar,India
+1998.0,Kenya,2,Kenya,5,0.4,245.5,Maurice Odumbe,Other
+1998.0,New Zealand,9,New Zealand,21,0.42857142857142855,220.88888888888889,Stephen Fleming,Other
+1998.0,Pakistan,12,Pakistan,26,0.46153846153846156,250.91666666666666,Aamer Sohail,Pakistan
+1998.0,South Africa,17,South Africa,22,0.7727272727272727,224.41176470588235,Jacques Kallis,South Africa
+1998.0,Sri Lanka,11,Sri Lanka,23,0.4782608695652174,236.63636363636363,Arjuna Ranatunga,Sri Lanka
+1998.0,West Indies,6,West Indies,8,0.75,244.33333333333334,Brian Lara,Other
+1998.0,Zimbabwe,6,Zimbabwe,26,0.23076923076923078,226.66666666666666,Craig Wishart,Zimbabwe
+1999.0,Australia,26,Australia,37,0.7027027027027027,227.76923076923077,Adam Gilchrist,Australia
+1999.0,Bangladesh,2,Bangladesh,12,0.16666666666666666,204.0,Khaled Mahmud,Other
+1999.0,England,9,England,20,0.45,207.66666666666666,Alan Mullally,Other
+1999.0,India,20,India,40,0.5,247.85,Sourav Ganguly,India
+1999.0,Kenya,2,Kenya,13,0.15384615384615385,223.0,Kennedy Otieno,Other
+1999.0,New Zealand,10,New Zealand,22,0.45454545454545453,222.2,Nathan Astle,Other
+1999.0,Pakistan,21,Pakistan,29,0.7241379310344828,245.8095238095238,Azhar Mahmood,Pakistan
+1999.0,South Africa,18,South Africa,25,0.72,230.61111111111111,Lance Klusener,South Africa
+1999.0,Sri Lanka,12,Sri Lanka,33,0.36363636363636365,225.33333333333334,Marvan Atapattu,Sri Lanka
+1999.0,West Indies,14,West Indies,34,0.4117647058823529,216.28571428571428,Jimmy Adams,Other
+1999.0,Zimbabwe,10,Zimbabwe,24,0.4166666666666667,257.0,Neil Johnson,Zimbabwe
+2000.0,Australia,15,Australia,22,0.6818181818181818,240.73333333333332,Michael Bevan,Australia
+2000.0,England,11,England,20,0.55,198.9090909090909,Alec Stewart,Other
+2000.0,India,14,India,33,0.42424242424242425,248.92857142857142,Sourav Ganguly,India
+2000.0,New Zealand,9,New Zealand,22,0.4090909090909091,229.88888888888889,Nathan Astle,Other
+2000.0,Pakistan,20,Pakistan,41,0.4878048780487805,219.85,Abdul Razzaq,Pakistan
+2000.0,South Africa,25,South Africa,40,0.625,218.72,Jacques Kallis,South Africa
+2000.0,Sri Lanka,16,Sri Lanka,21,0.7619047619047619,247.6875,Sanath Jayasuriya,Sri Lanka
+2000.0,West Indies,6,West Indies,17,0.35294117647058826,230.16666666666666,Sherwin Campbell,Other
+2000.0,Zimbabwe,9,Zimbabwe,32,0.28125,249.77777777777777,Alistair Campbell,Zimbabwe
+2001.0,Australia,18,Australia,21,0.8571428571428571,251.27777777777777,Ricky Ponting,Australia
+2001.0,England,5,England,14,0.35714285714285715,236.0,Andy Flower,Other
+2001.0,India,12,India,24,0.5,228.41666666666666,Sachin Tendulkar,India
+2001.0,Kenya,1,Kenya,9,0.1111111111111111,246.0,Joseph Angara,Other
+2001.0,New Zealand,8,New Zealand,22,0.36363636363636365,236.0,Mathew Sinclair,Other
+2001.0,Pakistan,12,Pakistan,20,0.6,247.66666666666666,Saeed Anwar,Pakistan
+2001.0,South Africa,17,South Africa,21,0.8095238095238095,244.94117647058823,Herschelle Gibbs,South Africa
+2001.0,Sri Lanka,22,Sri Lanka,34,0.6470588235294118,216.3181818181818,Mahela Jayawardene,Sri Lanka
+2001.0,West Indies,13,West Indies,30,0.43333333333333335,229.0,Cameron Cuffy,Other
+2001.0,Zimbabwe,10,Zimbabwe,37,0.2702702702702703,226.9,Dion Ebrahim,Zimbabwe
+2002.0,Australia,19,Australia,28,0.6785714285714286,233.8421052631579,Adam Gilchrist,Australia
+2002.0,England,11,England,23,0.4782608695652174,256.72727272727275,Paul Collingwood,Other
+2002.0,India,19,India,32,0.59375,258.10526315789474,Virender Sehwag,India
+2002.0,New Zealand,12,New Zealand,30,0.4,218.5,Chris Harris,Other
+2002.0,Pakistan,23,Pakistan,37,0.6216216216216216,249.34782608695653,Mohammad Yousuf,Pakistan
+2002.0,South Africa,22,South Africa,38,0.5789473684210527,228.86363636363637,Herschelle Gibbs,South Africa
+2002.0,Sri Lanka,15,Sri Lanka,30,0.5,226.33333333333334,Marvan Atapattu,Sri Lanka
+2002.0,West Indies,12,West Indies,21,0.5714285714285714,259.6666666666667,Chris Gayle,Other
+2002.0,Zimbabwe,4,Zimbabwe,14,0.2857142857142857,220.75,Dougie Marillier,Zimbabwe
+2003.0,Australia,30,Australia,35,0.8571428571428571,226.1,Ricky Ponting,Australia
+2003.0,Canada,1,Canada,6,0.16666666666666666,180.0,Austin Codrington,Other
+2003.0,England,13,England,24,0.5416666666666666,192.07692307692307,Andrew Flintoff,Other
+2003.0,India,16,India,26,0.6153846153846154,251.875,Sachin Tendulkar,India
+2003.0,Kenya,4,Kenya,12,0.3333333333333333,190.0,Collins Obuya,Other
+2003.0,Netherlands,1,Netherlands,6,0.16666666666666666,314.0,Feiko Kloppenburg,Other
+2003.0,New Zealand,12,New Zealand,28,0.42857142857142855,183.16666666666666,Stephen Fleming,Other
+2003.0,Pakistan,21,Pakistan,32,0.65625,253.42857142857142,Imran Farhat,Pakistan
+2003.0,South Africa,13,South Africa,22,0.5909090909090909,207.3846153846154,Jacques Kallis,South Africa
+2003.0,Sri Lanka,13,Sri Lanka,26,0.5,209.23076923076923,Chaminda Vaas,Sri Lanka
+2003.0,West Indies,10,West Indies,20,0.5,248.3,Chris Gayle,Other
+2003.0,Zimbabwe,7,Zimbabwe,21,0.3333333333333333,231.0,Grant Flower,Zimbabwe
+2004.0,Australia,19,Australia,24,0.7916666666666666,241.3684210526316,Andrew Symonds,Australia
+2004.0,Bangladesh,3,Bangladesh,19,0.15789473684210525,229.33333333333334,Javed Omar,Other
+2004.0,England,10,England,18,0.5555555555555556,227.9,Alex Wharf,Other
+2004.0,India,15,India,31,0.4838709677419355,261.1333333333333,VVS Laxman,India
+2004.0,New Zealand,19,New Zealand,23,0.8260869565217391,224.68421052631578,Stephen Fleming,Other
+2004.0,Pakistan,14,Pakistan,26,0.5384615384615384,260.35714285714283,Shoaib Malik,Pakistan
+2004.0,South Africa,5,South Africa,16,0.3125,214.4,Jacques Kallis,South Africa
+2004.0,Sri Lanka,20,Sri Lanka,27,0.7407407407407407,205.3,Chaminda Vaas,Sri Lanka
+2004.0,West Indies,11,West Indies,19,0.5789473684210527,209.72727272727272,Chris Gayle,Other
+2004.0,Zimbabwe,2,Zimbabwe,26,0.07692307692307693,213.5,Heath Streak,Zimbabwe
+2005.0,Africa XI,1,Africa XI,3,0.3333333333333333,198.0,Ashwell Prince,Other
+2005.0,Asia XI,1,Asia XI,4,0.25,267.0,Kumar Sangakkara,Other
+2005.0,Australia,21,Australia,27,0.7777777777777778,258.3809523809524,Andrew Symonds,Australia
+2005.0,Bangladesh,4,Bangladesh,14,0.2857142857142857,235.75,Manzarul Islam,Other
+2005.0,England,8,England,20,0.4,237.75,Andrew Strauss,Other
+2005.0,ICC World XI,1,ICC World XI,4,0.25,344.0,Ricky Ponting,Other
+2005.0,India,15,India,27,0.5555555555555556,247.6,Irfan Pathan,India
+2005.0,New Zealand,6,New Zealand,18,0.3333333333333333,271.0,Andy Blignaut,Other
+2005.0,Pakistan,13,Pakistan,22,0.5909090909090909,276.0769230769231,Abdul Razzaq,Pakistan
+2005.0,South Africa,18,South Africa,22,0.8181818181818182,236.83333333333334,Graeme Smith,South Africa
+2005.0,Sri Lanka,8,Sri Lanka,16,0.5,238.5,Mahela Jayawardene,Sri Lanka
+2005.0,West Indies,2,West Indies,17,0.11764705882352941,282.5,Brian Lara,Other
+2005.0,Zimbabwe,2,Zimbabwe,12,0.16666666666666666,244.0,Barney Rogers,Zimbabwe
